@@ -1,0 +1,26 @@
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\bin\Debug\ProjektNr3_Vaiuta63247.exe.config
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\bin\Debug\ProjektNr3_Vaiuta63247.exe
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\bin\Debug\ProjektNr3_Vaiuta63247.pdb
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.AssemblyReference.cache
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.SuggestedBindingRedirects.cache
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.KokpitProjekt.resources
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.KokpitLab.resources
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.KokpitGłówny.resources
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.Properties.Resources.resources
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.GenerateResource.cache
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.CoreCompileInputs.cache
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.exe
+C:\Users\vauta\Desktop\Vistula\Semestr 1\Wprowadzenie_do_programowania\Csharp_Lab\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.pdb
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\bin\Debug\ProjektNr3_Vaiuta63247.exe.config
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\bin\Debug\ProjektNr3_Vaiuta63247.exe
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\bin\Debug\ProjektNr3_Vaiuta63247.pdb
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.AssemblyReference.cache
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.SuggestedBindingRedirects.cache
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.KokpitProjekt.resources
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.KokpitLab.resources
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.KokpitGłówny.resources
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.Properties.Resources.resources
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.GenerateResource.cache
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.csproj.CoreCompileInputs.cache
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.exe
+C:\Users\ViliaminStepushenkov\Desktop\Wprowadzanie do Programowania\ProjektNr3_Vaiuta63247 (1) 2\ProjektNr3_Vaiuta63247\obj\Debug\ProjektNr3_Vaiuta63247.pdb
